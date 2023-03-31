@@ -1,0 +1,2 @@
+# hyprctl-win-rs
+HYPRCTL UTLITY FOR WINDOWS (REWRITE IN RUST)
